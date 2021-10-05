@@ -1,6 +1,6 @@
 
 function welcome(){
-    alert("welcome to my website");
+    alert("welcome to my page");
 }
 function fncValidate ()
 {
